@@ -461,12 +461,17 @@ span:hover{
     }
     .pamplet-sec__desc{
         font-size: 10px;
-        top: 30px;
+        top: 5px;
         width: 30%;
-        left: 270px;
+        left: 220px;
     }
     .pamplet-sec__desc button{
         display: none;
+    }
+    .travel-head{
+        width: 80%;
+        margin-left: 10px;
+        text-indent: 0px;
     }
     .travel-img__one p{
         display: none;
@@ -474,11 +479,21 @@ span:hover{
     .explore-sec__one p{
         font-size: 10px;
     }
+    .trip-head{
+        width: 80%;
+        margin-left: 5px;
+        text-indent: 0px;
+    }
     .trip-sec__one p{
         display: none;
     }
+    .creators-head{
+        width: 80%;
+        margin-left: 10px;
+        text-indent: 0px;
+    }
     .creators-place__one img{
-        height: 100px;
+        height: 80px;
     }
     .creators-place__one p{
         font-size: 10px;
@@ -486,6 +501,7 @@ span:hover{
     }
     .ads__sec{
         font-size: 10px;
+        top: 10px;
     }
     .ads__sec button{
         display: none;
@@ -494,10 +510,11 @@ span:hover{
         font-size: 10px;
     }
     .container img{
-        width: 10px;
+        display: none;
     }
     .selectitem-one select{
         font-size: 10px;
-        padding: 10px;
+        padding: 2px;
+        margin: 0px;
     }
 }
